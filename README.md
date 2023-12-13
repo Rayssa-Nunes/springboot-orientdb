@@ -2,9 +2,9 @@
 
 ## requisitos:
 Banco de Dados OrientDB instalado e configurado OU Docker e Docker compose última versão instalados.
-link para instalação do OrientDB: https://orientdb.com/docs/latest/fiveminute/java.html\n
-link para instalação do Docker: https://www.docker.com/products/docker-desktop/\n
-link para instalação do Docker compose: https://docs.docker.com/compose/install/\n
+<p>link para instalação do OrientDB: https://orientdb.com/docs/latest/fiveminute/java.html</p>
+<p>link para instalação do Docker: https://www.docker.com/products/docker-desktop/</p>
+<p>link para instalação do Docker compose: https://docs.docker.com/compose/install/</p>
 
 ## para rodar o projeto:
 1. executar comando para o Studio do OrientDB
