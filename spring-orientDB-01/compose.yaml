@@ -1,0 +1,12 @@
+version: '3'
+services:
+  orientdb:
+    image: orientdb:latest
+    container_name: orientdb
+    ports:
+      - '2424:2424'
+      - '2480:2480'
+    environment:
+      - ORIENTDB_ROOT_PASSWORD=root
+    restart: always
+
